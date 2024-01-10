@@ -1,2 +1,3 @@
 # almost_everyday_flet
-Upload small fket samples almost everyday.
+Upload small flet samples almost everyday.
+ほぼ毎日fletのサンプルをアップロード。
